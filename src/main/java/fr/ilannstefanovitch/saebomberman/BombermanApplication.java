@@ -19,6 +19,7 @@ public class BombermanApplication extends Application {
         scene.getRoot().requestFocus();
     }
 
+
     public static void main(String[] args) {
         launch();
     }
